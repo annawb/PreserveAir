@@ -1,3 +1,13 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/annawb/pen/YEjZWv.
-
- Create a thermometer using D3.js
+ Links:
+ https://bl.ocks.org/mbostock/3883245
+ http://nvd3.org/examples/line.html
+ https://bost.ocks.org/mike/path/
+ http://www.home-automation-community.com/temperature-and-humidity-from-am2302-dht22-sensor-displayed-as-chart/
+ https://www.dashingd3js.com/svg-text-element
+ https://flask-restful.readthedocs.io/en/latest/quickstart.html
+ https://realpython.com/blog/python/python-web-applications-with-flask-part-ii/
+ http://flask.pocoo.org/docs/0.12/quickstart/
+ https://pythonspot.com/en/flask-with-static-html-files/
+ http://flask.pocoo.org/docs/0.12/quickstart/
+ http://exploreflask.com/en/latest/views.html
+ http://flask.pocoo.org/docs/0.12/quickstart/
