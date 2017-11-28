@@ -1,0 +1,53 @@
+body {
+    font-family: Arial;
+}
+
+p {
+    margin-bottom: 2px;
+}
+
+#trailerContainer {
+    height: 600px;
+    width: 900px;
+    background-image: url("../assets/trailer.jpg");
+    background-repeat: no-repeat;
+    background-position: left; 
+    background-size: 900px 600px;
+}
+
+#topBlock {
+  display: block;
+}
+
+#backContainer {
+    display: inline-block;
+    position: absolute;
+    left: 275px;
+    top: 200px;
+    text-align: center;
+}
+
+#topContainer {
+    display: inline-block;
+    top: 20px;
+    left: 470px;
+    position: absolute;
+    text-align: center;
+}
+
+#frontContainer {
+    margin-left: 400px;
+    top: 200px;
+    left: 10px;
+    position: absolute;
+    text-align: center;
+}
+
+.thermo {
+  display: inline-block;
+}
+
+.humid {
+  display: inline-block;
+}
+
