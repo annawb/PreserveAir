@@ -43,6 +43,22 @@ p {
     text-align: center;
 }
 
+#tempGraphContainer {
+    margin-left: 800px;
+    top: 100px;
+    left: 10px;
+    position: absolute;
+    text-align: center;
+}
+
+#humidGraphContainer {
+    margin-left: 800px;
+    top: 450px;
+    left: 10px;
+    position: absolute;
+    text-align: center;
+}
+
 .thermo {
   display: inline-block;
 }
